@@ -1,2 +1,2 @@
-# bfc-web-theme
-Main College website Drupal 8.x Bootstrap 3.x Subtheme
+#BFC Web - Main College website bootstrap based subtheme
+Created from the Bootstrap CDN starterkit
